@@ -33,7 +33,6 @@ and a lot of useful features, including
 
 [FULL LIST OF FEATURES HERE](https://github.com/nullifiedcat/cathook/wiki/List-of-features) (list might be outdated)
 
-# stuff written below this line is outdated lol
 
 # INSTALLATION
 
